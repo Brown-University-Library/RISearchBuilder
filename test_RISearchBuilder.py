@@ -36,4 +36,4 @@ class RISearchBuilderTest( unittest.TestCase ):
 
 
 if __name__ == "__main__":
-  unittest.main()  # when run, will prevent subsequent lines from executing (which is fine)
+  unittest.main()
